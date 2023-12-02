@@ -1,0 +1,26 @@
+.nav {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  height: 10vh;
+  padding: 10px;
+  padding: 0% 10% 0% 10%;
+  display: flex;
+  align-items: center;
+}
+.emojiLogo {
+  display: flex;
+  align-items: center;
+  flex: 1;
+}
+.img-emoji {
+  width: 25px;
+  height: 25px;
+}
+.emoji-para {
+  font-size: 14px;
+  font-weight: 600;
+  color: #ffffff;
+  margin-right: 15px;
+}
+.cona {
+  display: flex;
+}

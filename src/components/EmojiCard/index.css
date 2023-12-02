@@ -1,0 +1,17 @@
+li {
+  background-image: linear-gradient(to bottom right, #9796f0, #fbc7d4);
+  border: 1px solid #ffffff30;
+  border-radius: 15px;
+  width: 21%;
+  padding: 20px;
+  margin-bottom: 25px;
+}
+.card-img {
+  width: 70px;
+  height: 70px;
+  cursor: pointer;
+}
+.btn {
+  border: none;
+  background-color: transparent;
+}

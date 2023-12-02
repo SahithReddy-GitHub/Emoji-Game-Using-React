@@ -1,0 +1,46 @@
+.bg {
+  background-image: linear-gradient(to bottom right, #9796f0, #fbc7d4);
+  border: 1px solid #ffffff30;
+  border-radius: 15px;
+  padding: 25px;
+  display: flex;
+  flex-direction: row;
+}
+.wl-con {
+  display: flex;
+  width: 45%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.head {
+  font-size: 44px;
+  font-weight: 700;
+  margin-bottom: 30px;
+  color: #ffffff;
+}
+.para {
+  font-size: 20px;
+  font-weight: 700;
+  color: #ffffff;
+}
+.score-para {
+  font-size: 28px;
+  font-weight: 700;
+  color: #6a59ff;
+  margin-bottom: 15px;
+}
+button {
+  background-color: #ffce27;
+  width: 80px;
+  padding: 10px;
+  font-size: 8px;
+  border: none;
+  border-radius: 10px;
+  color: #3d3d3d;
+  cursor: pointer;
+  font-weight: 600;
+}
+.wl-img {
+  width: 55%;
+}
